@@ -1,2 +1,2 @@
-# Initial
+# python data science
 Student
